@@ -7,7 +7,7 @@ public class RSA_Page extends javax.swing.JFrame {
 
     public RSA_Page() {
 
-        setIconImage(Toolkit.getDefaultToolkit().getImage(getClass().getResource("codingbrowser_102152.png")));
+        setIconImage(Toolkit.getDefaultToolkit().getImage(getClass().getResource("codingbrowser.png")));
         initComponents();
         this.setSize(632, 1002);
         setLocationRelativeTo(null);
